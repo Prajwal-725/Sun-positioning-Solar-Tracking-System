@@ -65,12 +65,14 @@ When the sensor readings become sufficiently close, the system can reduce or sto
 - Compare fixed-panel and tracking-panel output under controlled conditions.
 - Explore dual-axis tracking using an additional motor.
 
-## Repository Contents
+## Repository Structure
 
-- `README.md` — Project overview and documentation.
-- `Arduino/` — Arduino source code.
-- `Circuit/` — Circuit diagram and connection details.
-- `Images/` — Project photographs and hardware setup.
+Sun-positioning-Solar-Tracking-System/
+├── README.md
+├── solar_tracking.ino
+├── working_model.png
+└── Circuit/
+    └── circuit_connections.md
 
 ## Project Information
 
