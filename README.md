@@ -85,4 +85,6 @@ When the sensor readings become sufficiently close, the system can reduce or sto
 
 This project was carried out as an academic mini-project in the Department of Electronics and Communication Engineering at Nagarjuna College of Engineering and Technology.
 
+## Project Prototype
 
+![Sun Based Solar Tracking System](working_model.png)
