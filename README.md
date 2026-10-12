@@ -67,12 +67,15 @@ When the sensor readings become sufficiently close, the system can reduce or sto
 
 ## Repository Structure
 
+```text
 Sun-positioning-Solar-Tracking-System/
+├── Circuit/
+│   └── circuit_connections.md
 ├── README.md
 ├── solar_tracking.ino
-├── working_model.png
-└── Circuit/
-    └── circuit_connections.md
+└── working_model.png
+```
+
 
 ## Project Information
 
