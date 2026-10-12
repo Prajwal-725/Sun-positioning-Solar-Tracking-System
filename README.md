@@ -88,7 +88,11 @@ Sun-positioning-Solar-Tracking-System/
 
 ## Acknowledgement
 
-This project was carried out as an academic mini-project in the Department of Electronics and Communication Engineering at Nagarjuna College of Engineering and Technology.
+## Acknowledgement
+
+This project was completed as part of the
+Electronics and Communication Engineering
+mini-project during the 2024–2025 academic year.
 
 ## Project Prototype
 
